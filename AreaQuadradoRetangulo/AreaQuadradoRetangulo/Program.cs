@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Teste github");
             Console.WriteLine("Calcula a Área de um Quadrado ou Retângulo");
             Area p = new Area();
             Console.WriteLine("Digite o valor da Altura:");
